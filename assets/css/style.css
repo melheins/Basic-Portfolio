@@ -1,4 +1,4 @@
-/*** BEGIN Nav styling **/
+/*** BEGIN Nav styling ***/
 
 nav {
     background-color: #fff;
@@ -16,7 +16,7 @@ nav ul {
 nav li {
     float: right;
     display: inline;
-    padding: 20px 0px 20px 0px;
+    padding: 20px 0 20px 0;
 }
 
 .logo {
@@ -46,8 +46,7 @@ nav li a:hover {
     color: #4aaaa5;
 }
 
-
-/*** END Nav styling **/
+/*** BEGIN Content styling ***/
 
 body {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
@@ -81,7 +80,8 @@ h2 {
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
-p {}
+p {
+}
 
 .content-img {
     margin-right: 20px;
@@ -143,8 +143,7 @@ footer {
     float: left;
 }
 
-
-/*** BEGIN Contact Form Styling **/
+/*** BEGIN Contact Form Styling ***/
 
 input[type=text],
 select {
@@ -179,8 +178,7 @@ input[type=submit]:hover {
     border: 1px solid #ccc;
 }
 
-
-/*** BEGIN Portfolio Styling **/
+/*** BEGIN Portfolio Styling ***/
 
 .portfolio-box {
     position: relative;
